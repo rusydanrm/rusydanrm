@@ -241,46 +241,10 @@ Contributed to rental management platform dashboard.
 | Recognition | Details |
 |-------------|---------|
 | Software Engineering Student | IPB University |
-| GPA | 3.55 / 4.00 |
+| GPA | 3.54 / 4.00 |
 | Frontend Developer | Multiple Academic Collaboration Projects |
 | Team Collaboration | Cross-functional Project Experience |
 | Product Development | Real Client Academic Projects |
-
-</div>
-
----
-
-# Certifications
-
-## AWS
-
-![](https://img.shields.io/badge/Currently_Learning-232F3E?style=for-the-badge&logo=amazonaws)
-
-## Oracle
-
-![](https://img.shields.io/badge/Planning_Oracle_Foundation-F80000?style=for-the-badge&logo=oracle)
-
-## Cisco
-
-![](https://img.shields.io/badge/Planning_Cisco_Networking-1BA0D7?style=for-the-badge&logo=cisco)
-
-## NPTEL
-
-![](https://img.shields.io/badge/Future_Certifications-5928E5?style=for-the-badge)
-
----
-
-# Coding Profiles
-
-<div align="center">
-
-[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/)
-
-[![HackerRank](https://img.shields.io/badge/HackerRank-Profile-2EC866?style=for-the-badge&logo=hackerrank)](https://hackerrank.com/)
-
-[![CodeChef](https://img.shields.io/badge/CodeChef-Profile-5B4638?style=for-the-badge&logo=codechef)](https://codechef.com/)
-
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-Profile-2F8D46?style=for-the-badge&logo=geeksforgeeks)](https://geeksforgeeks.org/)
 
 </div>
 
@@ -317,16 +281,6 @@ Contributed to rental management platform dashboard.
 <div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=rusydanrm&theme=tokyo-night"/>
-
-</div>
-
----
-
-# Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/rusydanrm/rusydanrm/output/github-contribution-grid-snake-dark.svg"/>
 
 </div>
 
